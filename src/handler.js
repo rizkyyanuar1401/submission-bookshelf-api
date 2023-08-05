@@ -1,4 +1,3 @@
-//Dicoding API Handler Mandatory Submission
 const { nanoid } = require("nanoid");
 const books = require("./books");
 
